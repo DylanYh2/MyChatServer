@@ -1,8 +1,9 @@
 #########################################################################
 # File Name: autobuild.sh
-# Author: shi lei
-# mail: shitou3000@qq.com
-# Created Time: 2020年02月23日 星期日 18时40分28秒
+# Author: Dylan Yu
+# mail: 1127177522@qq.com
+# Created Time: 2024年03月21日 星期四 疯狂星期四 一起来吃吧
+# Reference: shi lei
 #########################################################################
 #!/bin/bash
 
